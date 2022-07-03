@@ -13,11 +13,13 @@ pip install WordCloud
 pip install nltk
 ```
 
-# 🛠 Build with
+# 🛠 Model Used
 
 <!-- * Scikit-learn -->
 * Logistic Regression
-* Confusion Matrix
+* Decision Tree
+* Support Vector Machine
+* For accuracy, Confusion Matrix
 <!-- * Keras
 * Tensorflow -->
 
